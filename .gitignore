@@ -53,6 +53,7 @@ dkms.conf
 
 # Default program name
 main
+mmcp
 
 # VS Code
 .vscode

@@ -1,4 +1,4 @@
-P := main
+P := mmcp
 OBJECTS := $(P).o
 CC := gcc
 CFLAGS := -I$(HOME)/local/include -Wall -Wextra
